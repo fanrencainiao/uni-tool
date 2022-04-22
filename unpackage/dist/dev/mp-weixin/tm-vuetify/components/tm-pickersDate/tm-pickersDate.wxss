@@ -1,0 +1,11 @@
+.tm-pickersDate-title.data-v-d9965726 {
+  position: relative;
+}
+.tm-pickersDate-title .tm-pickersDate-close.data-v-d9965726 {
+  position: absolute;
+  top: 32rpx;
+  right: 32rpx;
+  width: 50rpx;
+  height: 50rpx;
+}
+

@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "我发起的",
+  "navigationBarBackgroundColor": "#88147f",
+  "navigationBarTextStyle": "white",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tm-menubars": "/tm-vuetify/components/tm-menubars/tm-menubars",
+    "tm-full-view": "/tm-vuetify/components/tm-fullView/tm-fullView",
+    "tm-pull-bottom": "/tm-vuetify/components/tm-pullBottom/tm-pullBottom",
+    "tm-switch-list": "/tm-vuetify/components/tm-switchList/tm-switchList",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-search": "/tm-vuetify/components/tm-search/tm-search"
+  }
+}

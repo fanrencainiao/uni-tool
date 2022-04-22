@@ -1,0 +1,33 @@
+.tm-menubars .body.data-v-2a0d9096 {
+  position: fixed;
+  z-index: 450;
+  top: 0;
+  left: 0;
+}
+.tm-menubars .body.transparent.data-v-2a0d9096 {
+  background: none !important;
+  transition: all 0.6s;
+}
+.tm-menubars .body .body_wk.data-v-2a0d9096 {
+  height: 45px;
+}
+.tm-menubars .body .body_wk .left.data-v-2a0d9096 {
+  max-width: 74px;
+  min-width: 74px;
+}
+.tm-menubars .body .body_wk .left .home-btn.data-v-2a0d9096 {
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  margin-left: 24rpx;
+}
+.tm-menubars .body .body_wk .right.data-v-2a0d9096 {
+  max-width: 74px;
+  min-width: 74px;
+}
+.tm-menubars .body .body_wk .center.data-v-2a0d9096 {
+  width: calc(100% - 148px);
+  flex-shrink: 0;
+}
+

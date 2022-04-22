@@ -1,0 +1,115 @@
+{
+	"easycom": {
+			"^tm-(.*)": "@/tm-vuetify/components/tm-$1/tm-$1.vue"
+		},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationBarBackgroundColor":"#098DF7",
+				"navigationBarTextStyle":"white"
+			}
+		}
+		,{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationBarBackgroundColor":"#098DF7",
+				"navigationBarTextStyle":"white"
+			}
+		}
+		,{
+			"path": "pages/tools/tools",
+			"style": {
+				"navigationBarTitleText": "工具",
+				"navigationBarBackgroundColor":"#098DF7",
+				"navigationBarTextStyle":"white"
+			}
+		},{
+			"path": "pages/tools/ip",
+			"style": {
+				"navigationBarTitleText": "IP查询",
+				"navigationBarBackgroundColor":"#098DF7",
+				"navigationBarTextStyle":"white"
+			}
+		},{
+			"path": "pages/tools/qrcode",
+			"style": {
+				"navigationBarTitleText": "二维码生成",
+				"navigationBarBackgroundColor":"#d4237a",
+				"navigationBarTextStyle":"white"
+			}
+		},{
+			"path": "pages/tools/choujiang",
+			"style": {
+				"navigationBarTitleText": "抽奖游戏",
+				"navigationBarBackgroundColor":"#ff5500",
+				"navigationBarTextStyle":"white"
+			}
+		},{
+			"path": "pages/tools/dateformat",
+			"style": {
+				"navigationBarTitleText": "时间转换",
+				"navigationBarBackgroundColor":"#88147f",
+				"navigationBarTextStyle":"white"
+			}
+		},{
+			"path": "pages/tools/toupiao",
+			"style": {
+				"navigationBarTitleText": "发起投票",
+				"navigationBarBackgroundColor":"#88147f",
+				"navigationBarTextStyle":"white"
+			}
+		},{
+			"path": "pages/tools/toupiaolist",
+			"style": {
+				"navigationBarTitleText": "我发起的",
+				"navigationBarBackgroundColor":"#88147f",
+				"navigationBarTextStyle":"white",
+				"navigationStyle":"custom"
+			}
+		},{
+			"path": "pages/tools/toupiaolistin",
+			"style": {
+				"navigationBarTitleText": "我参与的",
+				"navigationBarBackgroundColor":"#88147f",
+				"navigationBarTextStyle":"white",
+				"navigationStyle":"custom"
+			}
+		},{
+			"path": "pages/tools/toupiaodetail",
+			"style": {
+				"navigationBarTitleText": "投票",
+				"navigationBarBackgroundColor":"#88147f",
+				"navigationBarTextStyle":"white",
+				"navigationStyle":"default"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#8a8a8a",
+		"selectedColor": "#1296db",
+		"borderStyle": "white",
+		"backgroundColor": "#F8F8F8",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/index-1.png",
+				"selectedIconPath": "static/index.png",
+				"text": "首页"
+			},
+			 {
+				"pagePath": "pages/my/my",
+				"iconPath": "static/my-1.png",
+				"selectedIconPath": "static/my.png",
+				"text": "我的"
+			}
+		]
+	}
+}

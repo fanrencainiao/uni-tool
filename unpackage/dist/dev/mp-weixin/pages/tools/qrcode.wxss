@@ -1,0 +1,11 @@
+
+.content {
+}
+.canvas-qrcode{
+	display: inline-block !important;
+	float: none !important;
+}
+.tm-input{
+	background: none !important;
+}
+

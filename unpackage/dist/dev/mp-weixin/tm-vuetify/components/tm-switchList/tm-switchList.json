@@ -1,0 +1,11 @@
+{
+  "componentGenerics": {
+    "scoped-slots-left": true
+  },
+  "component": true,
+  "usingComponents": {
+    "tm-badges": "/tm-vuetify/components/tm-badges/tm-badges",
+    "tm-images": "/tm-vuetify/components/tm-images/tm-images",
+    "tm-icons": "/tm-vuetify/components/tm-icons/tm-icons"
+  }
+}

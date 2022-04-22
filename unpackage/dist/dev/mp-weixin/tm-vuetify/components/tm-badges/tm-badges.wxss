@@ -1,0 +1,29 @@
+.tm--badges.data-v-3d2d2497 {
+  position: relative;
+  display: block;
+}
+.tm--badges .tm--badges--cm.data-v-3d2d2497 {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+}
+.tm--badges .tm--badges--cm.num.data-v-3d2d2497, .tm--badges .tm--badges--cm.icons.data-v-3d2d2497 {
+  width: auto;
+  min-width: 26rpx;
+  height: 35rpx;
+  color: #fff;
+  border-radius: 50rpx;
+  font-size: 22rpx;
+  line-height: 35rpx;
+  text-align: center;
+}
+.tm--badges .tm--badges--cm.dot.data-v-3d2d2497 {
+  width: 16rpx;
+  height: 16rpx;
+  min-width: 0 !important;
+  color: #fff;
+  padding: 0;
+  border-radius: 50%;
+}
+

@@ -1,0 +1,81 @@
+.tm-choujiangGrid.data-v-63866866 {
+  overflow: hidden;
+}
+.tm-choujiangGrid .tm-choujiangGrid-bg.data-v-63866866 {
+  width: 600rpx;
+  height: 600rpx;
+  position: relative;
+  margin: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tm-choujiangGrid .tm-choujiangGrid-bg .tm-choujiangGrid-con.data-v-63866866 {
+  position: absolute;
+  width: 450rpx;
+  height: 450rpx;
+  top: 75rpx;
+  left: 75rpx;
+}
+.tm-choujiangGrid .tm-choujiangGrid-bg .tm-choujiangGrid-con .tm-choujiangGrid-grid.data-v-63866866 {
+  display: flex;
+  justify-content: space-between;
+}
+.tm-choujiangGrid .tm-choujiangGrid-bg .tm-choujiangGrid-con .tm-choujiangGrid-grid .tm-choujiangGrid-item.data-v-63866866 {
+  width: 137rpx;
+  height: 130rpx;
+  border-radius: 20rpx;
+  overflow: hidden;
+  margin-left: 10rpx;
+  position: relative;
+  margin-bottom: 28rpx;
+}
+.tm-choujiangGrid .tm-choujiangGrid-bg .tm-choujiangGrid-con .tm-choujiangGrid-grid .tm-choujiangGrid-item .tm-choujiangGrid-item-img.data-v-63866866 {
+  width: 100%;
+  height: 100%;
+  color: black;
+}
+.tm-choujiangGrid .tm-choujiangGrid-bg .tm-choujiangGrid-con .tm-choujiangGrid-grid .tm-choujiangGrid-item .tm-choujiangGrid-item-img.tm-choujiangGrid-item-point.data-v-63866866 {
+  -webkit-animation: scalanit-data-v-63866866 1s linear infinite;
+          animation: scalanit-data-v-63866866 1s linear infinite;
+}
+.tm-choujiangGrid .tm-choujiangGrid-bg .tm-choujiangGrid-con .tm-choujiangGrid-grid .tm-choujiangGrid-item .tm-choujiangGrid-item-hover.data-v-63866866 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ffaa17;
+  opacity: 0;
+}
+.tm-choujiangGrid .tm-choujiangGrid-bg .tm-choujiangGrid-con .tm-choujiangGrid-grid .tm-choujiangGrid-item .tm-choujiangGrid-item-hover.on.data-v-63866866 {
+  opacity: 0.6;
+}
+@-webkit-keyframes scalanit-data-v-63866866 {
+0% {
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+}
+50% {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+}
+100% {
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+}
+}
+@keyframes scalanit-data-v-63866866 {
+0% {
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+}
+50% {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+}
+100% {
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+}
+}
+

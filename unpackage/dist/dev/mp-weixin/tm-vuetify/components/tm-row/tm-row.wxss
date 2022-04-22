@@ -1,0 +1,10 @@
+.tm--row.data-v-38b8be8d {
+  display: flex;
+  flex-flow: row wrap;
+  width: auto;
+}
+.tm--row .tm--row--body.data-v-38b8be8d {
+  height: 100%;
+  flex-flow: row wrap;
+}
+

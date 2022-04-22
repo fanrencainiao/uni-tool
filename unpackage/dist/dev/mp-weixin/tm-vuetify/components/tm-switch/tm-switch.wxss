@@ -1,0 +1,58 @@
+.tm-switch.data-v-454d679f {
+  vertical-align: middle;
+}
+.tm-switch .tm-switch-wk.data-v-454d679f {
+  width: 100rpx;
+  height: 48rpx;
+}
+.tm-switch .tm-switch-bg.data-v-454d679f {
+  width: 100%;
+  height: 100%;
+  transition: all 0.5s;
+}
+.tm-switch .tm-switch-bg .tm-switch-txt.data-v-454d679f {
+  width: 50rpx;
+  height: 100%;
+}
+.tm-switch .tm-switch-wk-bar.data-v-454d679f {
+  left: 4rpx;
+  top: 5rpx;
+  width: 40rpx;
+  height: 40rpx;
+  transition: all 0.35s ease-in-out;
+}
+.tm-switch .tm-switch-wk-bar .load.data-v-454d679f {
+  -webkit-animation: xhRote-data-v-454d679f 0.8s infinite linear;
+          animation: xhRote-data-v-454d679f 0.8s infinite linear;
+}
+.aniOn.data-v-454d679f {
+  left: inherit;
+  -webkit-transform: translateX(52rpx);
+          transform: translateX(52rpx);
+}
+.aniOff.data-v-454d679f {
+  right: inherit;
+  -webkit-transform: translateX(0rpx);
+          transform: translateX(0rpx);
+}
+@-webkit-keyframes xhRote-data-v-454d679f {
+0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+}
+100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+}
+}
+@keyframes xhRote-data-v-454d679f {
+0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+}
+100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+}
+}
+

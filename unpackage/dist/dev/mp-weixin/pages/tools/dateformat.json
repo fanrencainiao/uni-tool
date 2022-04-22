@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "时间转换",
+  "navigationBarBackgroundColor": "#88147f",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "tm-input": "/tm-vuetify/components/tm-input/tm-input"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "抽奖游戏",
+  "navigationBarBackgroundColor": "#ff5500",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "tm-choujiang-grid": "/tm-vuetify/components/tm-choujiangGrid/tm-choujiangGrid",
+    "tm-banners": "/tm-vuetify/components/tm-banners/tm-banners"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的",
+  "navigationBarBackgroundColor": "#098DF7",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-sheet": "/tm-vuetify/components/tm-sheet/tm-sheet"
+  }
+}

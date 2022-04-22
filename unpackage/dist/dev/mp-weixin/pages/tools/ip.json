@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "IP查询",
+  "navigationBarBackgroundColor": "#098DF7",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "tm-search": "/tm-vuetify/components/tm-search/tm-search",
+    "tm-grouplist": "/tm-vuetify/components/tm-grouplist/tm-grouplist",
+    "tm-listitem": "/tm-vuetify/components/tm-listitem/tm-listitem"
+  }
+}

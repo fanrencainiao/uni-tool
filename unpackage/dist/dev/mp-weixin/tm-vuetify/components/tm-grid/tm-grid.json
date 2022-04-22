@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tm-row": "/tm-vuetify/components/tm-row/tm-row",
+    "tm-col": "/tm-vuetify/components/tm-col/tm-col",
+    "tm-badges": "/tm-vuetify/components/tm-badges/tm-badges",
+    "tm-icons": "/tm-vuetify/components/tm-icons/tm-icons"
+  }
+}

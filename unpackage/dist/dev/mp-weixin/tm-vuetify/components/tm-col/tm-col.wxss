@@ -1,0 +1,9 @@
+.tm-col.data-v-e4015066 {
+  height: inherit;
+  display: inline-block;
+  height: 100%;
+}
+.tm-col .tm-col-body.data-v-e4015066 {
+  display: block;
+}
+

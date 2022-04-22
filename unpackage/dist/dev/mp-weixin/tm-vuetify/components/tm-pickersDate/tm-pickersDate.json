@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tm-poup": "/tm-vuetify/components/tm-poup/tm-poup",
+    "tm-icons": "/tm-vuetify/components/tm-icons/tm-icons",
+    "tm-pickers-date-view": "/tm-vuetify/components/tm-pickersDateView/tm-pickersDateView",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button"
+  }
+}

@@ -1,0 +1,13 @@
+
+.content {
+}
+.willl{
+	position: relative;
+	left: 20%;
+}
+.willr{
+	position: absolute;
+	right: 20%;
+}
+
+

@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationBarBackgroundColor": "#098DF7",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "tm-icons": "/tm-vuetify/components/tm-icons/tm-icons",
+    "tm-swiper": "/tm-vuetify/components/tm-swiper/tm-swiper",
+    "tm-alerts": "/tm-vuetify/components/tm-alerts/tm-alerts",
+    "tm-sheet": "/tm-vuetify/components/tm-sheet/tm-sheet",
+    "tm-grid": "/tm-vuetify/components/tm-grid/tm-grid",
+    "tm-divider": "/tm-vuetify/components/tm-divider/tm-divider"
+  }
+}

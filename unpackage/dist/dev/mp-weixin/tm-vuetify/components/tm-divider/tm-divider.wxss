@@ -1,0 +1,22 @@
+.tm-divider.data-v-243e42a6 {
+  display: block;
+  width: auto;
+  position: relative;
+}
+.tm-divider .tm-divider-wk.setpsClass.data-v-243e42a6 {
+  position: absolute;
+  line-height: 0;
+}
+.tm-divider .flexVer.data-v-243e42a6 {
+  width: 1px;
+}
+.tm-divider .tm-divider-text.data-v-243e42a6 {
+  flex-shrink: 0;
+}
+.tm-divider .tm-divider-left.data-v-243e42a6,
+.tm-divider .tm-divider-right.data-v-243e42a6 {
+  width: 50%;
+  height: 1px;
+  border-bottom-width: 1px;
+}
+

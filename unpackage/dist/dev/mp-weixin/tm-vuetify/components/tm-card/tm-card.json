@@ -1,0 +1,16 @@
+{
+  "componentGenerics": {
+    "scoped-slots-img": true,
+    "scoped-slots-subTitle": true,
+    "scoped-slots-statusText": true,
+    "scoped-slots-title": true,
+    "scoped-slots-subText": true,
+    "scoped-slots-content": true,
+    "scoped-slots-action": true
+  },
+  "component": true,
+  "usingComponents": {
+    "tm-images": "/tm-vuetify/components/tm-images/tm-images",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button"
+  }
+}

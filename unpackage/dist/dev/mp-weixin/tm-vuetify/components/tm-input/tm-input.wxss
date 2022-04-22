@@ -1,0 +1,29 @@
+.tm-input .tm-input-center.data-v-3b4f5966 {
+  width: 100%;
+}
+.tm-input .tm-input-center .tm-input-center-wk.data-v-3b4f5966 {
+  transition: all 0.2s;
+}
+.tm-input .tm-input-center .tm-input-center-input.data-v-3b4f5966 {
+  border: none;
+  background: none;
+  box-shadow: 0;
+  width: 100%;
+}
+.tm-input .tm-input-left.data-v-3b4f5966 {
+  flex-shrink: 0;
+  height: 100%;
+  min-width: 80rpx;
+  padding-right: 24rpx;
+}
+.tm-input .tm-input-col .tm-input-left.data-v-3b4f5966 {
+  max-width: inherit;
+  padding-right: 0;
+}
+.tm-input .tm-input-col .tm-input-center .tm-input-center-input.data-v-3b4f5966 {
+  height: 76rpx;
+}
+.tm-input .tm-input-right.data-v-3b4f5966 {
+  height: 100%;
+}
+

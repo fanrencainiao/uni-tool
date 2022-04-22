@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "二维码生成",
+  "navigationBarBackgroundColor": "#d4237a",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "tm-input": "/tm-vuetify/components/tm-input/tm-input",
+    "ay-qrcode": "/components/ay-qrcode/ay-qrcode"
+  }
+}

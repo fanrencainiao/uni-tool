@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "投票",
+  "navigationBarBackgroundColor": "#88147f",
+  "navigationBarTextStyle": "white",
+  "navigationStyle": "default",
+  "usingComponents": {
+    "toupiaodetail-tm-card-content": "/pages/tools/toupiaodetail-tm-card-content",
+    "tm-card": "/tm-vuetify/components/tm-card/tm-card",
+    "tm-button": "/tm-vuetify/components/tm-button/tm-button",
+    "tm-sheet": "/tm-vuetify/components/tm-sheet/tm-sheet",
+    "tm-seg-tabs": "/tm-vuetify/components/tm-segTabs/tm-segTabs",
+    "tm-listitem": "/tm-vuetify/components/tm-listitem/tm-listitem"
+  }
+}

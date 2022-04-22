@@ -1,0 +1,8 @@
+.tm-alerts .gs.data-v-5d64a8b6, .tm-alerts .body-left.data-v-5d64a8b6, .tm-alerts .body-right.data-v-5d64a8b6 {
+  width: 50rpx;
+  min-width: 70rpx;
+}
+.tm-alerts .body-center.data-v-5d64a8b6 {
+  width: 100%;
+}
+

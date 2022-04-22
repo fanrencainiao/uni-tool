@@ -1,0 +1,17 @@
+.tm-banners.data-v-33307426 {
+  width: calc(100% - 32rpx);
+  left: 32rpx;
+  position: fixed;
+  z-index: 500;
+}
+.tm-banners.dense-32.data-v-33307426 {
+  width: calc(100% - 64rpx);
+}
+.tm-banners .gs.data-v-33307426, .tm-banners .body-left.data-v-33307426, .tm-banners .body-right.data-v-33307426 {
+  width: 50rpx;
+  min-width: 70rpx;
+}
+.tm-banners .body-center.data-v-33307426 {
+  width: 100%;
+}
+

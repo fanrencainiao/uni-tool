@@ -1,0 +1,18 @@
+.tm-pullBottom.data-v-23db1152 {
+  height: 100%;
+}
+.tm-pullBottom .tm-pullBottom-sroll.data-v-23db1152 {
+  position: relative;
+}
+.tm-pullBottom .tm-pullBottom-sroll .tm-pullBottom-top.data-v-23db1152 {
+  width: 100%;
+  position: relative;
+}
+.tm-pullBottom .tm-pullBottom-sroll .tm-pullBottom-top .tm-pullBottom-top-icon.data-v-23db1152 {
+  transition: all 0.5s;
+}
+.tm-pullBottom .tm-pullBottom-sroll .tm-pullBottom-top .tm-pullBottom-top-icon.pull.data-v-23db1152 {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
